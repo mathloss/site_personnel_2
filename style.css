@@ -328,4 +328,8 @@ img.portfolio {
     .display-mobile {
         display: block;
     }
+
+    .col{
+        display: block;
+    }
 }
